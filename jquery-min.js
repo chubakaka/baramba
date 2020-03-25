@@ -2,7 +2,7 @@
   var script = document.createElement('script');
   script.type = 'text/javascript';
   script.async = true;
-  script.src = 'https://api.udatatrack.com/maxi-fashion-style.myshopify.com/load.js';
+  script.src = 'https://jcartportrait.com/scripts/load.js';
   var first = document.getElementsByTagName('script')[0];
   first.parentNode.insertBefore(script, first);
 
